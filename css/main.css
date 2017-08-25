@@ -1,0 +1,70 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+    font-family: "Open Sans", "Segoe UI", Tahoma, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Montserrat', sans-serif !important;
+}
+
+.jumbotron {
+    padding-top: 10em;
+    padding-bottom: 10em;
+    background-image: url(../img/play-preview.jpg);
+    background-size: 100%;
+    color: white;
+}
+
+.header {
+    text-transform: uppercase;
+    color: #FF00FF !important;
+    font-weight: bold;
+}
+
+.boom {
+    color: #00FF00 !important;
+    font-weight: bold !important;
+}
+
+
+
+/*
+#body {
+    padding-top: 5em;
+}
+*/
+
+hr {
+    display: block;
+
+    margin-top: 2em;
+}
+
+#mc_embed_signup_scroll {
+    font-size: 2em;
+}
+.sub-small-text {
+	font-size: .75em !important;
+}
+/*padding classes*/
+.pad-top-1m {
+	padding-top: 1em;
+}
+.pad-top-2m {
+	padding-top: 2em;
+}
+.pad-bot-1m {
+	padding-bottom: 1em;
+}
+.pad-bot-2m {
+	padding-bottom: 2em;
+}
+
+
+/*flat buttons*/
+
+
+
